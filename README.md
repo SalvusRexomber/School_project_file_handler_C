@@ -2,5 +2,4 @@
 
 #My little homework from my school: File Handling in C (comments in Hungarian).
 #/Borászat témakör/
-
-# Code create a new file ("bor.txt")
+#Code create a new file ("bor.txt")
